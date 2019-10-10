@@ -1,0 +1,36 @@
+AMD Athlon:
+Fajtái:
+-200GE:3.2GHz       
+-220GE:3.4GHz
+-240GE:3.5GHz
+Tulajdonságai:
+-2mag/4szál
+-3iGPU cU
+-35W TDP
+-nem szükséges hozzá videókártya
+
+Ryzen 3:
+Fajtái
+-2300x
+-2200G
+Tulajdonságai:
+-4 mag/4 szál
+-65W TDP
+-8IGPO CU
+
+Ryzen 5:
+Fajtái:
+-2400G:4mag/8 szál, 11IGPU CU, 14nm, 3.6/3.9GHz65W TDP
+-2600:6mag/12szál, 12nm, 3.4/3.9GHz, 65W TDP, nincs iGPU
+-2600x:6mag/12szál, 12nm, 3.6/4.2GHz. 95W TDP, nincs iGPU
+
+Ryzen 7:
+Fajtái:
+-2700
+-2700x
+Tulajdonságai:
+8mag/16szál
+-12nm
+-65W/105W TDP
+
+
